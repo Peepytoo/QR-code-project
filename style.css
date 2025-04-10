@@ -1,6 +1,7 @@
 body{
     background-color: #D5E1Ef;
     font-family: outfit;
+    margin: 0px;
 }
 #box1{
     width: 288px;
@@ -12,6 +13,7 @@ body{
     margin-top: 5%; /*idk how to center an element vertically*/
     margin-left: auto;
     margin-right: auto;
+
 }
 img{
     width:288px;
@@ -38,6 +40,11 @@ img{
     color: #68778D;
 }
 .attribution{
-    position: relative;
-    bottom: -75px /* easier way to put an element at the bottom of a page?*/
+    /*position: absolute;
+    bottom: 0px;*/ /* easier way to put an element at the bottom of a page?*/
+    /*width: 1391px;*/
+    margin:auto;
+    position:absolute;
+    bottom: 0px;
+    left: 41%;
 }
