@@ -40,9 +40,6 @@ img{
     color: #68778D;
 }
 .attribution{
-    /*position: absolute;
-    bottom: 0px;*/ /* easier way to put an element at the bottom of a page?*/
-    /*width: 1391px;*/
     position:absolute;
     bottom: 0px;
 }
